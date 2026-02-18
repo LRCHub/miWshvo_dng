@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "RADIO",
+  "base_artist": "JUDY AND MARY",
+  "createdAt": "2026-02-18T08:21:28.640310Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn - Radio Edit",
+      "artist": "ZAYN feat. Sia",
+      "has_synced": true,
+      "path": "select/01_Dusk_Till_Dawn_-_Radio_Edit_ZAYN_feat._Sia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (Radio Edit)",
+      "artist": "ZAYN, Sia",
+      "has_synced": true,
+      "path": "select/02_Dusk_Till_Dawn_(Radio_Edit)_ZAYN,_Sia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "There Ain't Nothin' Wrong with the Radio",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/03_There_Ain't_Nothin'_Wrong_with_the_Radio_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tether (Eric Prydz Vs. CHVRCHES) - Radio Edit",
+      "artist": "Eric Prydz vs CHVRCHES",
+      "has_synced": true,
+      "path": "select/04_Tether_(Eric_Prydz_Vs._CHVRCHES)_-_Radio_Edit_Eric_Prydz_vs_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tether (Eric Prydz Vs. CHVRCHES) - Radio Edit",
+      "artist": "Eric Prydz, CHVRCHES",
+      "has_synced": true,
+      "path": "select/05_Tether_(Eric_Prydz_Vs._CHVRCHES)_-_Radio_Edit_Eric_Prydz,_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Country Radio",
+      "artist": "Aaron Watson",
+      "has_synced": true,
+      "path": "select/06_Country_Radio_Aaron_Watson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hard To Forget - Radio Edit",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/07_Hard_To_Forget_-_Radio_Edit_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey Girl (Radio Version)",
+      "artist": "Anne Wilson",
+      "has_synced": true,
+      "path": "select/08_Hey_Girl_(Radio_Version)_Anne_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Am A Man Of Constant Sorrow (Radio Edit)",
+      "artist": "The Soggy Bottom Boys",
+      "has_synced": true,
+      "path": "select/09_I_Am_A_Man_Of_Constant_Sorrow_(Radio_Edit)_The_Soggy_Bottom_Boys.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Hope You Dance - Album Version Radio Edit",
+      "artist": "Lee Ann Womack",
+      "has_synced": false,
+      "path": "select/10_I_Hope_You_Dance_-_Album_Version_Radio_Edit_Lee_Ann_Womack.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Want To Know What Love Is - Piper Radio Edit",
+      "artist": "Wynonna",
+      "has_synced": false,
+      "path": "select/11_I_Want_To_Know_What_Love_Is_-_Piper_Radio_Edit_Wynonna.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Want To Know What Love Is (Piper Radio Edit)",
+      "artist": "Wynonna Judd",
+      "has_synced": false,
+      "path": "select/12_I_Want_To_Know_What_Love_Is_(Piper_Radio_Edit)_Wynonna_Judd.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Watched It All (On My Radio)",
+      "artist": "Lionel Cartwright",
+      "has_synced": true,
+      "path": "select/13_I_Watched_It_All_(On_My_Radio)_Lionel_Cartwright.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Watched It All On My Radio",
+      "artist": "Lionel Cartwright",
+      "has_synced": true,
+      "path": "select/14_I_Watched_It_All_On_My_Radio_Lionel_Cartwright.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm Gonna Hurt Her On the Radio",
+      "artist": "David Allan Coe",
+      "has_synced": true,
+      "path": "select/15_I'm_Gonna_Hurt_Her_On_the_Radio_David_Allan_Coe.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'm Gonna Hurt Her On the Radio (Album Version)",
+      "artist": "David Allan Coe",
+      "has_synced": true,
+      "path": "select/16_I'm_Gonna_Hurt_Her_On_the_Radio_(Album_Version)_David_Allan_Coe.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Just About Over You (Radio Edit)",
+      "artist": "Priscilla Block",
+      "has_synced": true,
+      "path": "select/17_Just_About_Over_You_(Radio_Edit)_Priscilla_Block.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Making Memories Of Us (Radio Single Edit)",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/18_Making_Memories_Of_Us_(Radio_Single_Edit)_Keith_Urban.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RADIO",
+      "artist": "JUDY AND MARY",
+      "has_synced": false,
+      "path": "select/pl_01_RADIO_JUDY_AND_MARY.txt"
+    }
+  ]
+}
